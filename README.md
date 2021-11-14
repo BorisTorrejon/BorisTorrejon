@@ -13,7 +13,7 @@
 |:white_check_mark:    | PHP        |:sparkles::sparkles::sparkles::sparkles:|
 |:white_check_mark:    | MVC        |:sparkles::sparkles::sparkles::sparkles:|
 |:white_check_mark:    | REST       |:sparkles::sparkles::sparkles::sparkles:|
-|:white_square_button: | REACT      ||
+|:white_check_mark:    | REACT      |:sparkles::sparkles::sparkles::sparkles:|
 |:white_square_button: | ANGULAR    ||
 |:white_square_button: | VUE.JS     ||
 <!--
