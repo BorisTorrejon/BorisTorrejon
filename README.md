@@ -15,7 +15,7 @@
 |:white_check_mark:    | REST       |:sparkles::sparkles::sparkles::sparkles:|
 |:white_check_mark:    | REACT      |:sparkles::sparkles::sparkles::sparkles:|
 |:white_square_button: | ANGULAR    ||
-|:white_square_button: | VUE.JS     ||
+|:white_square_button: | VUE.JS     |:sparkles::sparkles::sparkles:|
 <!--
 **BorisTorrejon/BorisTorrejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
